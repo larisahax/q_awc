@@ -7,7 +7,7 @@ Description: Test Adaptive Weights Clustering on several data sets.
 
 Keywords: cluster-analysis, kullback-leibler, nonparametric, data visualization, data mining
 
-Author: Kirill Efimov, Larisa Adamyan
+Author: Kirill Efimov, Larisa Adamyan, Vladimir Spokoiny
 
 Submitted [python]: Wed, September 19 2016 by Larisa Adamyan
 
